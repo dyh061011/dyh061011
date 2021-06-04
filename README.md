@@ -2,7 +2,7 @@
 - 👀 I’m interested in Physics
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @dyh061011@163.com
+- 📫 How to reach me dyh061011@163.com
 
 <!---
 dyh061011/dyh061011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
